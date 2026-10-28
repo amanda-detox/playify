@@ -1,2 +1,2 @@
 # playify
-Playify game
+Flyify game

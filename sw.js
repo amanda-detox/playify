@@ -1,5 +1,5 @@
-/* Offline cache for Playify · פלייפיי (standalone site). */
-var CACHE = "playify-v1";
+/* Offline cache for Flyify · פלייפיי (standalone site). */
+var CACHE = "playify-v2";
 var FILES = ["./", "index.html", "game.js", "three.module.min.js", "fonts.css", "fonts/heebo-hebrew.woff2", "fonts/heebo-latin.woff2", "fonts/heebo-latin-ext.woff2",
   "manifest.json", "icon.svg", "icon-192.png", "icon-512.png"];
 self.addEventListener("install", function (e) {
